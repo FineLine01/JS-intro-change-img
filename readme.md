@@ -1,1 +1,1 @@
-![preview-gif](/imgs/change-images.gif)
+![preview-gif](/imgs/change-imgs.gif)
